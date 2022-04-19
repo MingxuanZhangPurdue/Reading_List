@@ -15,3 +15,8 @@ My 2022 summer reading list as a PhD student in Statistics
 * https://arxiv.org/abs/1706.03762
 * https://arxiv.org/abs/1810.04805
 * https://arxiv.org/abs/2203.14101?fbclid=IwAR3mGrmFOfMVx2PYkRV8COK-sM1esrYThNm9g8lvkAVDuwB6wgGu-2eNmoc
+
+
+## Essential Statistical Inference: Theory and Methods, Dennis D BoosL. A Stefanski
+
+## Real Analysis: Modern Techniques and Their Applications
