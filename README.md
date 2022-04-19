@@ -10,4 +10,3 @@ My 2022 summer reading list as a PhD student in Statistics
 * https://theaisummer.com/transformer/
 * https://theaisummer.com/self-attention/
 * https://theaisummer.com/hugging-face-vit/
-* 
